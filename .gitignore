@@ -1,0 +1,8 @@
+#ignore data
+data/
+
+
+#Create a gitignore with CMD
+#echo "" > .gitignore
+#git add .gitignore
+#git commit -m "message" .gitignore
